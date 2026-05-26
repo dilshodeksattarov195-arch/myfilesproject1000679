@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authdncrypt",
+        "uuid": 2851121,
+        "checksum": "01hkz9"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
